@@ -1,0 +1,11 @@
+/* TEAM */
+Your title: Alexander Korsak
+Site: alex.korsak@gmail.com, http://oivoodoo.no.de/
+Twitter: oivoodoo
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3, Javascript, Ruby
+Components: Twitter Boostrap, jQuery, Sinatra
+Software: Software as a Service for getting hacker news as json list
+
